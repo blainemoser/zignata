@@ -1,2 +1,2 @@
-# zigonata
+# zignata
 Json operations
